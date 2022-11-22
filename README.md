@@ -21,3 +21,7 @@ Create a new VPC for WordPress blog to run from. Create a VPC peering connection
 * After clicking on VPC, we can see we have a VPC already created called DB_VPC
 
 ![ScreenShot](https://github.com/NavarroAlexKU/Build-Solutions-Across-VPCs-with-AWS-Peering/blob/main/Screenshot%202022-11-22%20at%2010.10.05%20AM.png)
+
+* Next, we will go to our DB instance and we can see that it's showing up under Resources.
+
+![ScreenShot](https://github.com/NavarroAlexKU/Build-Solutions-Across-VPCs-with-AWS-Peering/blob/main/Screenshot%202022-11-22%20at%2010.13.01%20AM.png)
