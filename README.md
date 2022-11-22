@@ -25,3 +25,12 @@ Create a new VPC for WordPress blog to run from. Create a VPC peering connection
 * Next, we will go to our DB instance and we can see that it's showing up under Resources.
 
 ![ScreenShot](https://github.com/NavarroAlexKU/Build-Solutions-Across-VPCs-with-AWS-Peering/blob/main/Screenshot%202022-11-22%20at%2010.13.01%20AM.png)
+
+* Next we will create a new VPC:
+    - Click 'Create VPC'
+    - Resources to create will be VPC Only
+    - Name is Web_VPC
+    - IPv4 CIDR we will use the following IP address 192.168.0.0/16 "lab IP Address"
+    - Everything else we can leave as default and click "Create VPC"
+
+    ![ScreenShot](https://github.com/NavarroAlexKU/Build-Solutions-Across-VPCs-with-AWS-Peering/blob/main/Screenshot%202022-11-22%20at%2010.18.14%20AM.png)
