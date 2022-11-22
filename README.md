@@ -40,3 +40,7 @@ Create a new VPC for WordPress blog to run from. Create a VPC peering connection
     - Click "Create Subnets"
     
     ![ScreenShot](https://github.com/NavarroAlexKU/Build-Solutions-Across-VPCs-with-AWS-Peering/blob/main/Screenshot%202022-11-22%20at%2010.22.42%20AM.png)
+    
+    - next, we can enter the following information to create our subnet then click "Create SubNet"
+    
+    ![ScreenShot](https://github.com/NavarroAlexKU/Build-Solutions-Across-VPCs-with-AWS-Peering/blob/main/Screenshot%202022-11-22%20at%2010.25.23%20AM.png)
