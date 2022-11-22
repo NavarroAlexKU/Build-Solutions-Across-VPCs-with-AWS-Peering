@@ -1,6 +1,6 @@
 # Build-Solutions-Across-VPCs-with-AWS-Peering
 
-![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/AWS%20Security%20Logo.png)
+![ScreenShot](https://github.com/NavarroAlexKU/Build-Solutions-Across-VPCs-with-AWS-Peering/blob/main/VPC%20Peering.png)
 
 ## Project Objective:
 Create a new VPC for WordPress blog to run form. Create a VPC peering connection between your new VPC and existing database VPC.
